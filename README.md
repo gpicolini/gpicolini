@@ -82,12 +82,7 @@ NEXT_MISSION="aprender, construir, documentar e compartilhar"
 SYSTEM_STATUS="EVOLUÇÃO CONTÍNUA"
 ```
 
-## `> GITHUB_ANALYTICS`
-
-<div align="center">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=gpicolini&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=00e5ff&text_color=c9d1d9&icon_color=ff4d8d&bg_color=0d1117" alt="Estatísticas do GitHub de gpicolini" />
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gpicolini&layout=compact&langs_count=8&hide_border=true&title_color=00e5ff&text_color=c9d1d9&bg_color=0d1117" alt="Linguagens mais utilizadas por gpicolini" />
-</div>
+## `> CONTRIBUTION_STREAK`
 
 <div align="center">
   <img width="92%" src="https://streak-stats.demolab.com?user=gpicolini&theme=transparent&hide_border=true&background=0D1117&ring=00E5FF&fire=FF4D8D&currStreakLabel=00E5FF&sideLabels=C9D1D9&dates=6E7681&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="Sequência de contribuições de gpicolini" />
@@ -97,12 +92,6 @@ SYSTEM_STATUS="EVOLUÇÃO CONTÍNUA"
 
 <div align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=gpicolini&bg_color=0d1117&color=00e5ff&line=7c3aed&point=ff4d8d&area=true&hide_border=true" alt="Gráfico de atividade de gpicolini" />
-</div>
-
-## `> TROPHY_ROOM`
-
-<div align="center">
-  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=gpicolini&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=7" alt="Troféus do perfil de gpicolini" />
 </div>
 
 ## `> CONTRIBUTION_SNAKE`
