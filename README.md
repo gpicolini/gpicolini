@@ -22,18 +22,20 @@
 perfil:
   usuario: gpicolini
   foco: desenvolvimento de software e evolução contínua
-  interesses: [Java, banco de dados, automação, inteligência artificial]
+  interesses: [Java, C, C#, banco de dados, automação, inteligência artificial]
   filosofia: "transformar ideias em sistemas funcionais, claros e escaláveis"
   status: online
 ```
 
-Sou um desenvolvedor em constante evolução, movido por tecnologia, criatividade e pelo desafio de transformar problemas reais em soluções bem construídas. Atualmente exploro o ecossistema Java, fundamentos de banco de dados e novas formas de potencializar projetos com automação e IA.
+Sou um desenvolvedor em constante evolução, movido por tecnologia, criatividade e pelo desafio de transformar problemas reais em soluções bem construídas. Atualmente exploro o ecossistema Java e amplio minha base com C e C#, aproveitando conceitos e sintaxes familiares enquanto avanço em banco de dados, automação e IA.
 
 ## `> TECH_STACK`
 
 <div align="center">
 
 ![Java](https://img.shields.io/badge/Java-0b1026?style=for-the-badge&logo=openjdk&logoColor=00e5ff)
+![C](https://img.shields.io/badge/C-0b1026?style=for-the-badge&logo=c&logoColor=a8b9cc)
+![C#](https://img.shields.io/badge/C%23-0b1026?style=for-the-badge&logo=dotnet&logoColor=7c3aed)
 ![MySQL](https://img.shields.io/badge/MySQL-0b1026?style=for-the-badge&logo=mysql&logoColor=00e5ff)
 ![HTML5](https://img.shields.io/badge/HTML5-0b1026?style=for-the-badge&logo=html5&logoColor=ff4d8d)
 ![CSS3](https://img.shields.io/badge/CSS3-0b1026?style=for-the-badge&logo=css3&logoColor=7c3aed)
@@ -49,6 +51,7 @@ Sou um desenvolvedor em constante evolução, movido por tecnologia, criatividad
 ![Git](https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=f05032)
 ![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=ffffff)
 ![VS Code](https://img.shields.io/badge/VS_Code-111827?style=for-the-badge&logo=visualstudiocode&logoColor=00e5ff)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-111827?style=for-the-badge&logo=visualstudio&logoColor=7c3aed)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-111827?style=for-the-badge&logo=intellijidea&logoColor=ff4d8d)
 ![Windows](https://img.shields.io/badge/Windows-111827?style=for-the-badge&logo=windows11&logoColor=00e5ff)
 
@@ -73,9 +76,9 @@ Sou um desenvolvedor em constante evolução, movido por tecnologia, criatividad
 ```console
 gpicolini@system:~$ ./mission-control --status
 [████████░░] Aprimorar fundamentos de Java e orientação a objetos
-[██████░░░░] Evoluir modelagem e integração com bancos de dados
-[████░░░░░░] Explorar automações e aplicações de inteligência artificial
-[██░░░░░░░░] Criar projetos cada vez mais completos e profissionais
+[██████░░░░] Expandir conhecimentos em C e C# com Visual Studio
+[████░░░░░░] Evoluir modelagem e integração com bancos de dados
+[██░░░░░░░░] Explorar automações e aplicações de inteligência artificial
 
 NEXT_MISSION="aprender, construir, documentar e compartilhar"
 SYSTEM_STATUS="EVOLUÇÃO CONTÍNUA"
