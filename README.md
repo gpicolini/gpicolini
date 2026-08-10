@@ -3,7 +3,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:050816,45:0b1026,100:00e5ff&text=SYSTEM%20ONLINE&fontColor=00e5ff&fontSize=44&fontAlignY=38&animation=fadeIn&desc=GPICOLINI%20%2F%2F%20AI-POWERED%20DEVELOPER&descAlignY=58&descSize=15" alt="System Online — gpicolini" />
 
 <a href="https://github.com/gpicolini">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=800&color=00E5FF&center=true&vCenter=true&width=720&lines=%3E+Inicializando+perfil+de+gpicolini...;%3E+Construindo+experi%C3%AAncias+com+c%C3%B3digo;%3E+Java+%7C+Banco+de+Dados+%7C+Automa%C3%A7%C3%A3o;%3E+Status%3A+pronto+para+o+pr%C3%B3ximo+desafio" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=800&color=00E5FF&center=true&vCenter=true&width=720&lines=%3E+Inicializando+perfil+de+gpicolini...;%3E+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+%40+Mau%C3%A1;%3E+2%C2%BA+semestre+%7C+Java+%7C+C+%7C+C%23;%3E+Status%3A+pronto+para+o+pr%C3%B3ximo+desafio" alt="Typing animation" />
 </a>
 
 <br />
@@ -22,12 +22,16 @@
 perfil:
   usuario: gpicolini
   foco: desenvolvimento de software e evolução contínua
+  formação:
+    curso: Ciência da Computação (CIC)
+    instituição: Instituto Mauá de Tecnologia
+    semestre: 2º
   interesses: [Java, C, C#, banco de dados, automação, inteligência artificial]
   filosofia: "transformar ideias em sistemas funcionais, claros e escaláveis"
   status: online
 ```
 
-Sou um desenvolvedor em constante evolução, movido por tecnologia, criatividade e pelo desafio de transformar problemas reais em soluções bem construídas. Atualmente exploro o ecossistema Java e amplio minha base com C e C#, aproveitando conceitos e sintaxes familiares enquanto avanço em banco de dados, automação e IA.
+Sou estudante de Ciência da Computação (CIC) no Instituto Mauá de Tecnologia, atualmente no 2º semestre. Como desenvolvedor em constante evolução, sou movido por tecnologia, criatividade e pelo desafio de transformar problemas reais em soluções bem construídas. Exploro o ecossistema Java e amplio minha base com C e C#, aproveitando conceitos e sintaxes familiares enquanto avanço em banco de dados, automação e IA.
 
 ## `> TECH_STACK`
 
@@ -62,12 +66,6 @@ Sou um desenvolvedor em constante evolução, movido por tecnologia, criatividad
 <div align="center">
   <a href="https://github.com/gpicolini/Jogo-java-repositorio-agora-vai">
     <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=gpicolini&repo=Jogo-java-repositorio-agora-vai&theme=transparent&hide_border=true&title_color=00e5ff&text_color=c9d1d9&icon_color=ff4d8d&bg_color=0d1117" alt="Card do projeto Jogo Java" />
-  </a>
-  <a href="https://github.com/gpicolini/banco-de-dados---jogo">
-    <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=gpicolini&repo=banco-de-dados---jogo&theme=transparent&hide_border=true&title_color=00e5ff&text_color=c9d1d9&icon_color=7c3aed&bg_color=0d1117" alt="Card do projeto Banco de Dados — Jogo" />
-  </a>
-  <a href="https://github.com/gpicolini/jogo">
-    <img height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=gpicolini&repo=jogo&theme=transparent&hide_border=true&title_color=00e5ff&text_color=c9d1d9&icon_color=00e5ff&bg_color=0d1117" alt="Card do projeto Jogo" />
   </a>
 </div>
 
