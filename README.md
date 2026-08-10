@@ -26,7 +26,7 @@ perfil:
     curso: Ciência da Computação (CIC)
     instituição: Instituto Mauá de Tecnologia
     semestre: 2º
-  interesses: [Java, C, C#, banco de dados, automação, inteligência artificial]
+  interesses: Meu interesse sempre foi em aprender... pode ser a qualquer momento, em qualquer lugar, eu sempre vou tentar aprender. Errando, acertando, mas sempre tentando.
   filosofia: "transformar ideias em sistemas funcionais, claros e escaláveis"
   status: online
 ```
